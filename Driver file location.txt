@@ -1,0 +1,3 @@
+Driver for CH340G USB-Serial chip
+
+http://catalog.update.microsoft.com/v7/site/ScopedViewRedirect.aspx?updateid=032a878e-8ca0-40d2-b7b1-936640b0eecb
